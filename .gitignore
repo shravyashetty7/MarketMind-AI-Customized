@@ -1,0 +1,11 @@
+.env
+campaign_context.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+.streamlit/secrets.toml
